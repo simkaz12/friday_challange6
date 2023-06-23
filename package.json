@@ -1,0 +1,16 @@
+{
+  "name": "friday_challange6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=10002",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simonas K.",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}

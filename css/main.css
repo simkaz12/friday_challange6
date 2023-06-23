@@ -1,0 +1,37 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+form > button {
+    height: 1.5rem;
+    width: 5rem;
+    background-color: red;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#imgDiv {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
