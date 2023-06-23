@@ -3,7 +3,7 @@ console.clear();
 const rockDOM = document.getElementById('rock');
 const paperDOM = document.getElementById('paper');
 const scissorsDOM = document.getElementById('scissors');
-const bodyDOM = document.body;
+const bodyDOM = document.getElementById('top');
 const resetDOM = document.getElementById('reset');
 
 const pcChoice0 = 0; //rock
